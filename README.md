@@ -2,14 +2,13 @@
 
 # wili
 Wili Pakete Sammlung
-## derzeitige Pakete
+### derzeitige Pakete
 - WL, Live Abfahrtszeiten der Wiener Linien
 - Time, simple Zeit Anzeige
 
 
 <img src="img/combo.jpg"/>
 <img src="img/wili-knows.svg" align="right" width="20%" />
-## Wili Knows
 ### Wili knows ist der Versuch einen Schritt rückwärts
 Unsere Idee dahinter ist schnell erklärt. Das digitale Zeitalter und vor allem das Smartphone bündelt und vereint immer mehr, alle nötigen und unnötigen Information des täglichen Gebrauchs. Um dem Sog und resultierenden Zeitfresser zu umgehen, arbeiten wir an einer Plattform die es jedem individuell ermöglicht, Information in simpler ästhetischer und zurückhaltender Form wieder in unseren realen Lebensraum zu bringen.
 
